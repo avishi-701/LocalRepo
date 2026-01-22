@@ -1,3 +1,3 @@
 print("hello")
 if(True):
-    print("bye")
+    print("adios")
